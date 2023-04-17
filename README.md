@@ -1,11 +1,11 @@
 ### 🔭 I’m currently working on Front-end-development
-- 🌱 I’m currently learning javascript and react
+- 🌱 I’m currently learning web Development, UX/UI.
 - 👯 I’m looking to collaborate on GitHUb
-- 🤔 I’m looking for help with Javascript projects
+- 🤔 I’m looking for internship/junior roles as web developer
 - 💬 Ask me about ...myself
 - 📫 How to reach me: drdeepalijain@yahoo.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am a dentist ..
+- ⚡ Fun fact: I am a gym enthusiast, yoga , pilates teacher and personal trainer with academic and clinical background in dentistry..
 -->
 
 -->
